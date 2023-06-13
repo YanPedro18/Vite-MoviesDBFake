@@ -1,8 +1,8 @@
 # App de Filmes
 Este é um aplicativo simples de filmes construído usando React/Vite. Ele exibe uma lista de filmes de um arquivo JSON e os renderiza como cartões na tela.
 
-https://prnt.sc/w8Pe8o304RSW
 
+![PrintTela](https://prnt.sc/w8Pe8o304RSW)
 
 Instalação
 Clone o repositório para a sua máquina local.
