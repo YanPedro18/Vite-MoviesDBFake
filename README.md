@@ -1,4 +1,4 @@
-Aplicativo de Filmes
+# App de Filmes
 Este é um aplicativo simples de filmes construído usando React/Vite. Ele exibe uma lista de filmes de um arquivo JSON e os renderiza como cartões na tela.
 
 https://prnt.sc/w8Pe8o304RSW
@@ -23,5 +23,5 @@ Você pode personalizar o aplicativo alterando os estilos definidos no arquivo S
 
 Divirta-se explorando o aplicativo de filmes!
 
-# Vite-MoviesDBFake
+
 React.Js, Node.Js, JSON, Vite.js, Styled-components.
